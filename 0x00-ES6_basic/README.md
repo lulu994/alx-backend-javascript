@@ -41,18 +41,18 @@ To set up the project environment, follow these steps:
 
 - Install NodeJS 12.11.x by running the following commands in your home directory:
 
-° curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
-° sudo bash nodesource_setup.sh
-° sudo apt install nodejs -y
++ curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh.
++ sudo bash nodesource_setup.sh.
++ sudo apt install nodejs -y.
 
 - Verify the installation by checking NodeJS and npm versions:
 
-° nodejs -v
-° npm -v
++ nodejs -v.
++ npm -v.
 
 - Install Jest, Babel, and ESLint by navigating to your project directory and running:
 
-° npm install
++ npm install.
 
 ### Tasks
 
