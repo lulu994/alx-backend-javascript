@@ -1,0 +1,22 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "This repository serves as a learning resource and contains exercises and tasks focused on learning ECMAScript 6 (ES6) or ECMAScript 2015, covering various topics such as statements and declarations, arrow functions, default parameters, rest parameters, iterables, and iterators, that aim at improving understanding and proficiency in modern JavaScript development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+"devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^27.0.6",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "jest": "^27.2.4"
+  }
+}
